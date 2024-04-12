@@ -1,0 +1,17 @@
+'''
+pyttsx3
+SpeechRecognition
+pyaudio
+wikipedia
+requests
+beautifulsoup4
+pywhatkit
+pyautogui
+wolframalpha
+subprocess
+datetime
+re
+random
+
+Python 3.11 and above
+'''
